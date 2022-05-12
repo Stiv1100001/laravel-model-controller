@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <main>
+    <main class="container py-2">
         <div class="row row-cols-3 g-3">
             @foreach ($movies as $movie)
             <div class="col">
